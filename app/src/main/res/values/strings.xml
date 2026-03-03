@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaScroller</string>
+    <string name="accessibility_description">Automates scrolling and liking on Instagram Reels based on user timeouts.</string>
+    <string name="enable_service">Enable Auto-Scroller</string>
+    <string name="open_settings">Open Accessibility Settings</string>
+    <string name="auto_like">Auto-Like Randomly</string>
+    <string name="timeouts_title">Random Timeouts (seconds)</string>
+    <string name="warning_text">Use responsibly. Rapid automation may flag your account.</string>
+</resources>
